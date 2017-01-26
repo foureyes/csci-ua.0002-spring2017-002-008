@@ -38,17 +38,16 @@ Module, Quiz and Readings __Due Tuesday, Jan 31st, before class__
 * Complete the [Self Paced-Learning Module #2]({{ site.module2 }})
 * Take quiz #2 on NYU Classes
 
-{% comment %}
 Homework #1 __Due Monday, Sep 19th, at 11PM__ 
 
 (Submit via NYU Classes)
 
-1. [mad_libs_lyrics.py](homework/hw01/mad_libs_lyrics.py) - 2 points
-2. [exercises.py](homework/hw01/exercises.py) - 3 points
-3. [tree.py](homework/hw01/tree.py) - 2 points
-4. [temperature.py](homework/hw01/temperature.py) - 4 points
-5. [miles.py](homework/hw01/miles.py) - 4 points
-5. [foods.py](homework/hw01/foods.py) - 5 points
+1. [mad_libs_lyrics.py](homework/hw01/mad_libs_lyrics.py)
+2. [exercises.py](homework/hw01/exercises.py)
+3. [tree.py](homework/hw01/tree.py)
+4. [candy_bars.py](homework/hw01/cand_bars.py)
+5. [numbers.py](homework/hw01/miles.py)
+6. [foods.py](homework/hw01/foods.py)
 
 Example output for tree.py:
 
@@ -68,7 +67,6 @@ Example output for tree.py:
    ||
 </pre>
 <!--_-->
-{% endcomment %}
 </article>
 
 

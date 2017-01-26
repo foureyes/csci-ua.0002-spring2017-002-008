@@ -96,7 +96,7 @@ Let's talk, ok???
 </aside>
 * email me at __{{ site.email }}__
 * if I don't get back to you within 48 hours
-	* robots think your email is shady
+	* robots think your email is _suspicious_
 	* I wasn't able to get to your email yet
 	* my inbox exploded
 * ... so you should email me again, or __if it's urgent__:

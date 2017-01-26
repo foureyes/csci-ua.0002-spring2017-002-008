@@ -1,5 +1,5 @@
 """
-foods.py
+foods.py (5 points)
 =====
 
 Write a program that:
