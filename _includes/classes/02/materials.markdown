@@ -45,8 +45,8 @@ Homework #1 __Due Monday, Sep 19th, at 11PM__
 1. [mad_libs_lyrics.py](homework/hw01/mad_libs_lyrics.py)
 2. [exercises.py](homework/hw01/exercises.py)
 3. [tree.py](homework/hw01/tree.py)
-4. [candy_bars.py](homework/hw01/cand_bars.py)
-5. [numbers.py](homework/hw01/miles.py)
+4. [candy_bars.py](homework/hw01/candy_bars.py)
+5. [numbers.py](homework/hw01/numbers.py)
 6. [foods.py](homework/hw01/foods.py)
 
 Example output for tree.py:
