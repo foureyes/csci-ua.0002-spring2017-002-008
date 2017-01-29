@@ -38,7 +38,7 @@ Module, Quiz and Readings __Due Tuesday, Jan 31st, before class__
 * Complete the [Self Paced-Learning Module #2]({{ site.module2 }})
 * Take quiz #2 on NYU Classes
 
-Homework #1 __Due Monday, Sep 19th, at 11PM__ 
+Homework #1 __Due Thursday, Feb 2nd, at 11PM__ 
 
 (Submit via NYU Classes)
 
