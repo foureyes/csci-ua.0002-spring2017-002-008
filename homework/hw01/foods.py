@@ -27,11 +27,11 @@ Please enter your third favorite vegetable
 
 zuccchini, cauliflower, chocolate ice cream
 
-zucchini
-cauliflower
 chocolate ice cream
+cauliflower
+zucchini
 
-zucchini!
-cauliflower!
 chocolate ice cream!
+cauliflower!
+zucchini!
 """
