@@ -1,5 +1,5 @@
 """
-change_puhleese.py (15 points) (1 point extra credit)
+change_puhleese.py (15 points)
 =====
 You're the manager of a tiny boutique that sells Python related gifts and 
 knick-knacks (like plush Python stuffed animals, Guido Van Rossum bobble head
@@ -24,7 +24,7 @@ Here's what your program should do:
    b. the total cost of all of the items
    c. the sales tax based on the cost of all of the items - sales tax in the
       city is 8.875%
-   d. the total amount owed, including salestax
+   d. the total amount owed, including sales tax
    e. the total amount paid
    f. the change owed, followed by a break down of how many quarters, dimes, 
       nickels and pennies will be given back
@@ -99,18 +99,5 @@ CHANGE:
 1 x dimes
 0 x nickels
 4 x pennies
-
-
-
-EXTRA CREDIT 
-=====
-
-* __USE CALCULATIONS TO DETERMINE MANY SPACES__ to pad your title with (do not 
-  just write out space characters manually)
-* you can use the built-in function, len to get the length of a string
-* len("hello") --> 5
-* remember that the 2nd parameter to the format function is a string that 
-  determines how a string is formatted
-* can you construct that string dynamically with the length of the title?
 """
 

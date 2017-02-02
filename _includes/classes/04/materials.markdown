@@ -40,7 +40,7 @@ Homework #2 __Due Wednesday, February 8th, at 11PM__
 
 1. [multiply.py](homework/hw02/multiply.py) (partially implemented in class together!)
 2. [grade_bot_3000.py](homework/hw02/grade_bot_3000.py)
-3. [bauble_boutique.py](homework/hw02/bauble_boutique.py)
+3. [change_puhleese.py](homework/hw02/change_puhleese.py)
 
 </article>
 
