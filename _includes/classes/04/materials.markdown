@@ -31,7 +31,7 @@ Warm-up
 <article class="assignments" markdown="block">
 #### Assignments / Readings		
 
-Homework #2 __Due Sunday, Sep 25th, at 11PM__ 
+Homework #2 __Due Wednesday, February 8th, at 11PM__ 
 
 * we'll do go over potential solutions to multiply together!
 * for the remainder of the homework
