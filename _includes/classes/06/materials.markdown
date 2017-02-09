@@ -1,5 +1,5 @@
 <article class="due" markdown="block">
-#### Due on Sunday before Class
+#### Due on Wednesday before Class
 
 * Homework #2
 
@@ -19,15 +19,16 @@
 
 Warm-up
 
-* larger of two rrrrectangles
+* (SNOW DAY! ⛄ ⛄ ⛄)
 
-Homework #3 __Due Sunday, Oct 2nd, at 11PM__ 
+Homework #3 __Due Wednesday, February 16th, at 11PM__ 
+
+(this is a shorter version of our regular homework because we did not have a workshop today)
 
 1. [grade.py](homework/hw03/grade.py)
-2. [tip.py](homework/hw03/tip.py)
-3. [adventure.py](homework/hw03/adventure.py)
+2. [fortune.py](homework/hw03/fortune.py)
+3. [tip.py](homework/hw03/tip.py)
 4. [triangle_or_not.py](homework/hw03/triangle_or_not.py)
-5. [worksheet.py](homework/hw03/worksheet.py)
 
 <!--
 Readings
