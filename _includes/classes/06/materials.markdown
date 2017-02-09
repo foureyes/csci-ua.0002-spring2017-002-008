@@ -21,7 +21,7 @@ Warm-up
 
 * (SNOW DAY! ⛄ ⛄ ⛄)
 
-Homework #3 __Due Wednesday, February 16th, at 11PM__ 
+Homework #3 __Due Wednesday, February 15th, at 11PM__ 
 
 (this is a shorter version of our regular homework because we did not have a workshop today)
 
