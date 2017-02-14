@@ -1,7 +1,4 @@
 <article class="due" markdown="block">
-#### Due Today
-
-Homework #3
 
 <!--
 * Homework
@@ -12,10 +9,6 @@ Homework #3
 <article class="slides" markdown="block">
 #### Slides
 
-Midterm #1 is coming up in 2 weeks. Here are some sample questions:
-
-* [Midterm #1 Sample Questions](resources/handouts/midterm_1/midterm_1_practice.pdf)
-* [Midterm #1 Sample Solutions](resources/handouts/midterm_1/midterm_1_practice_solutions.pdf)
 
 <!--
 * [Slides](classes/01/intro.html)

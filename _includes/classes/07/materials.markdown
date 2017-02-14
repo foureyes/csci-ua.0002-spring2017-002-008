@@ -13,9 +13,16 @@
 <article class="slides" markdown="block">
 #### Slides
 
+Slides
+
 * [About Class #7 - Midterm Exam Date](classes/07/meta.html)
 * [While Loops](classes/07/while.html) / [Alternative While Loop Slides](classes/07/while-revisited.html)
 * [For Loops](classes/07/for.html) Maybe
+
+Midterm #1 is coming up in 2 weeks. Here are some sample questions:
+
+* [Midterm #1 Sample Questions](resources/handouts/midterm_1/midterm_1_practice.pdf)
+* [Midterm #1 Sample Solutions](resources/handouts/midterm_1/midterm_1_practice_solutions.pdf)
 
 <!--
 * [Review](classes/07/review.html)
