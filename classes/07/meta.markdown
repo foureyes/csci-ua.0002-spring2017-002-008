@@ -26,9 +26,12 @@ title: About Class #7
 <section markdown="block">
 ### Midterm #1
 
-* midterm #1 is in less than three weeks - TUE 2/28
-* it takes place in class, so come on time
-* there are no make up exams if you miss it!
+Midterm #1 is in __two weeks:__ - __TUE 2/28__ &rarr;
+
+* it takes place __in class__, so come on time
+* __review questions will be posted__ in the next day or two
+* __class before midterm will be for dedicated review__
+* there are __no make up exams__ if you miss it!
 * if you cannot make it on the scheduled date because of religious observances, please let me know in advance
 
 </section>
