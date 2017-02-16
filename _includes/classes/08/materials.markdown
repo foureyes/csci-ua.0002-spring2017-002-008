@@ -25,7 +25,7 @@ Warm-up
 * preview for-loops?
 * while loop with a game - maybe number guessing game?
 
-Homework #4 __Due Tuesday , Oct 11th, at 11PM__ 
+Homework #4 __Due Wednesday, Feb 22nd, at 11PM__ 
 
 1. [many_words.py](homework/hw04/many_words.py)
 2. [sticky.py](homework/hw04/sticky.py)
