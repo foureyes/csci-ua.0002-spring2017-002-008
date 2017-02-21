@@ -28,7 +28,7 @@ Warm-up
 Homework #4 __Due Wednesday, Feb 22nd, at 11PM__ 
 
 1. [many_words.py](homework/hw04/many_words.py)
-2. [odds_and_evens.py](homework/hw04/odds_and_evens.py)
+2. [sticky.py](homework/hw04/sticky.py)
 3. [flagged.py](homework/hw04/flagged.py)
 4. [average_word.py](homework/hw04/average_word.py)
 5. [counting.py](homework/hw04/counting.py)

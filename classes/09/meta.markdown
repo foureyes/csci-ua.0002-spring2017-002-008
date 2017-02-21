@@ -18,10 +18,10 @@ title: Meta
 <section markdown="block">
 ### Homework
 
-* Grades for homework 2 posted
-* Grades for homework 3 by early next week
+* Grades for homework 1 and 2 already posted
+* Grades for homework 3 posted this evening
 
-Homework #4 is due on Sunday!
+Homework #4 is due on Wednesday!
 </section>
 
 
@@ -219,12 +219,9 @@ main()
 
 Coming up soon!
 
-* The __first midterm__ is on Monday, __October 17th!__
-	* __THAT'S IN LESS THAN TWO WEEKS__
-* There's no class / workshop on Monday 10/10
-* We'll have a review in-class next Wednesday
-	* Practice questions were posted under class 8
-	* We'll discuss during the in-class review
+* The __first midterm__ is on, __February 28th!__
+	* __THAT'S IN A WEEK!__
+* We'll have a review instead of a workshop for our next class
 </section>
 
 

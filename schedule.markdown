@@ -177,7 +177,7 @@ Jump to Class:
 * While Loops Continued
 * For Loops Preview
 
-</article> {% comment %}{% include classes/09/materials.markdown %}{% endcomment %} </div> </section> 
+</article> {% include classes/09/materials.markdown %}</div> </section> 
 
 
 <a name="class10"></a><!---------- start --------------->

@@ -46,6 +46,7 @@ for n in range(4, 65, 4):
 </div>
 </section>
 
+{% comment %}
 <section markdown="block">
 ### Odds or Evens
 
@@ -150,6 +151,8 @@ print(sentence)
 {% endhighlight %}
 </section>
 
+{% endcomment %}
+
 <section markdown="block">
 ### An ATM Program
 
@@ -215,5 +218,44 @@ while command != 'q' and command != 'Q':
         print('k, thx bye')
     else:
         print('huh?')
+{% endhighlight %}
+</section>
+
+<section markdown="block">
+### Generate Random Bits
+
+__Write the following program__ &rarr;
+
+* ask the user for a number between 4 and 8 inclusive 
+* if the number is not between 4 and 8, ask again (continually)
+* use the number to create a series of randomly generated bits (4 means 4 bits will be generated)
+* print out the bits and their decimal value
+* for example, if the program generates 0011, then the resulting base 10 number is 3
+
+{% highlight python %}
+how many bits (between 4 and 8)?
+>4
+0011 in binary is 3 in decimal
+{% endhighlight %}
+
+</section>
+
+<section markdown="block">
+### Random Bits Solution!
+ 
+{% highlight python %}
+import random
+
+bit_length = 0
+while bit_length < 4 or bit_length > 8: 
+    bit_length = int(input('how many bits (between 4 and 8)?\n>'))
+bits = ''
+num = 0
+for exponent in range(bit_length):
+    b = random.randint(0, 1)
+    bits = str(b) + bits
+    num += b * (2 ** exponent)
+
+print('%s in binary is %s in decimal' % (bits, num))
 {% endhighlight %}
 </section>
