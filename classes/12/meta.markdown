@@ -14,6 +14,7 @@ title: About Class #12
 * creating functions
 </section>
 
+<!--
 <section markdown="block">
 ### Quizzes and Homework 
 
@@ -22,6 +23,7 @@ title: About Class #12
 * (this homework will be slightly longer, as it will cover both nested loops and functions)
 
 </section>
+-->
 
 
 <section markdown="block">
