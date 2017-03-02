@@ -2,6 +2,7 @@
 #### Due Today
 
 Quiz #6
+
 <!--
 * Homework
 -->
