@@ -1,42 +1,39 @@
 <article class="due" markdown="block">
 #### Due Today
 
+Quiz #6
+<!--
 * Homework
+-->
 
 </article>
 
 <article class="slides" markdown="block">
 #### Slides
 
-* [IPO Charts and Exercises](classes/13/ipo_function_exercises.html)
+
+{% comment %}
+* [About Class #14](classes/14/meta.html)
+* Midterm Solutions
+    * [Midterm Solutions Version 1](resources/handouts/midterm_1/midterm_1_section_008_v1_cactus_solutions.pdf)
+    * [Midterm Solutions Version 2](resources/handouts/midterm_1/midterm_1_section_008_v2_evergreen_solutions.pdf)
+{% endcomment %}
+
+* [Functions: Assertions and Testing](classes/14/functions_assertions_testing.html)
+* [Scope](classes/14/scope.html)
+* [Recursion](classes/14/recursion.html)
+* [Strings](classes/14/strings.html)
+* [As a list of chars](classes/14/strings_as_list.html)
+
+<!--
+* [Objects and Methods](classes/14/objects_and_methods.html)
+* [Slides](classes/01/intro.html)
+-->
 
 </article>
 
 <article class="assignments" markdown="block">
 #### Assignments / Readings		
-
-Warm-up
-
-* oh hey, remember modules?
-* if \_\_name\_\_ == '\_\_main\_\_':
-* input/output/processing
-* functions with and without return
-* an example of minus
-* a box
-
-Homework #5 __Due Sunday, Oct 30th, at 11PM__
-
-1. [funcynum.py](homework/hw05/funcynum.py)
-	* [instructions only](homework/hw05/funcynum.html)
-2. [feeling_quizzy.py](homework/hw05/feeling_quizzy.py)
-	* [instructions only](homework/hw05/feeling_quizzy.html)
-3. [snake_eyes.py](homework/hw05/snake_eyes.py)
-4. [analyze_numbers.py](homework/hw05/analyze_numbers.py)
-
-Module #7 __Due Wednesday, Nov 2nd, before class__
-
-* Complete the [Self Paced-Learning Module #7]({{ site.module7 }})
-* Take quiz #7 on NYU Classes
 
 <!--
 Readings
@@ -49,33 +46,37 @@ Assignments
 -->
 </article>
 <!--
-<a name="class13"></a>
+<a name="class14"></a>
 
-###Slides
 
-* [About Class #13](classes/13/meta.html)
-* [Midterm #1](classes/13/midterm.html)
-* [Nested Loops Review](classes/13/nested-loops-review.html)
-* [Turtle](classes/13/turtle.html)
-* [Functions and Turtles](classes/13/functions.html)
-* (Optional) [Approaching a Programming Problem - Dice Wars Game](classes/13/dicewars.html)
+
+* [Loops Recap](classes/14/loops.html)
+* [Turtle Review](classes/14/turtle_review.html)
+* [Returning Values](classes/14/returning_values.html)
+
 
 ### Readings
-__{{ site.bookq }}__
 
-See readings for {{ site.bookt }}
+__{{site.bookq}}__
 
+* Chapter 5 on Value Returning Functions
 
-__{{ site.bookt }}__
+__{{site.bookt}}__
 
-* [THINKSCI - Chapter 3](http://openbookproject.net/thinkcs/python/english3e/hello_little_turtles.html) (Turtle)
-* [THINKSCI - Chapter 4](http://openbookproject.net/thinkcs/python/english3e/functions.html) (Functions)
+* [THINKSCI - Chapter 6](http://openbookproject.net/thinkcs/python/english3e/fruitful_functions.html) (Fruitful Functions)
 
-### Handouts
+<a name="homework6"></a>
 
-[Annotated Solutions to Midterm #1](resources/handouts/midterm_1/midterm_1_008_solutions.pdf)
+### Homework #6
 
-### Vocabulary
+* Due __March 27th__ at 11PM (no grace period)
+* Submit all files via __NYU Classes__ 
+* [Contact me](index.html#contact-info) if you're having trouble submitting your homework
+* Here's [the policy on late homework](index.html#homework)
 
-See the [glossary in Chapter 3 of {{ site.bookt }}](http://openbookproject.net/thinkcs/python/english3e/hello_little_turtles.html#glossary) 
+1. [questions_ch_5.py](homework/hw06/questions_ch_5.py)
+2. [practice.py](homework/hw06/practice.py)
+3. [analyze_numbers.py](homework/hw06/analyze_numbers.py)
+4. [clicky.py](homework/hw06/clicky.py)
+5. [past.py](homework/hw06/past.py)
 -->

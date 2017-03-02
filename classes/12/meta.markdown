@@ -29,7 +29,7 @@ title: About Class #12
 <section markdown="block">
 ### Midterm #1
 
-* grades posted by Friday or Saturday 
+* grades posted by early next week
 * partial credit
 * curve (up) if average is below 80
 * any immediate questions?

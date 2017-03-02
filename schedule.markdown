@@ -219,21 +219,8 @@ Jump to Class:
 
 <a name="class13"></a><!---------- start --------------->
 
-<section markdown="block" class="workshop">
-### TUE 3/07, Class #13 (Programming Assignment)
-
-<div class="class-details">
-<article class="topics" markdown="block">
-#### Topics
-
-* In-class programming assignment
-</article> {% comment %}{% include classes/13/materials.markdown %}{% endcomment %} </div> </section> 
-
-
-<a name="class14"></a><!---------- start --------------->
-
 <section markdown="block">
-### THU 3/09, Class #14
+### TUE 3/07, Class #13 
 
 <div class="class-details">
 <article class="topics" markdown="block">
@@ -243,7 +230,21 @@ Jump to Class:
 * Testing
 * Scope
 * Strings
-</article> {% comment %}{% include classes/14/materials.markdown %}{% endcomment %} </div> </section> 
+</article> {% include classes/13/materials.markdown %} </div> </section> 
+
+
+<a name="class14"></a><!---------- start --------------->
+
+<section markdown="block" class="workshop">
+### THU 3/09, Class #14 (Programming Assignment)
+
+<div class="class-details">
+<article class="topics" markdown="block">
+
+#### Topics
+
+* In-class programming assignment
+</article> {% comment %}{% include classes/14/materials.markdown %} {% endcomment %}</div> </section> 
 
 
 <a name="springbreak1"></a><!---------- start --------------->
@@ -265,27 +266,28 @@ Jump to Class:
 
 <a name="class15"></a><!---------- start --------------->
 
+<section markdown="block">
+### TUE 3/21, Class #15 
+
+<div class="class-details">
+<article class="topics" markdown="block">
+#### Topics
+
+* Lists
+
+</article> {% comment %}{% include classes/15/materials.markdown %}{% endcomment %} </div> </section> 
+
+
+<a name="class16"></a><!---------- start --------------->
+
 <section markdown="block" class="workshop">
-### TUE 3/21, Class #15 (Programming Assignment)
+### THU 3/23, Class #16 (Programming Assignment)
 
 <div class="class-details">
 <article class="topics" markdown="block">
 #### Topics
 
 * In-class programming assignment
-</article> {% comment %}{% include classes/15/materials.markdown %}{% endcomment %} </div> </section> 
-
-
-<a name="class16"></a><!---------- start --------------->
-
-<section markdown="block">
-### THU 3/23, Class #16
-
-<div class="class-details">
-<article class="topics" markdown="block">
-#### Topics
-
-* Strings Continued, Lists
 </article> {% comment %}{% include classes/16/materials.markdown %}{% endcomment %} </div> </section> 
 
 

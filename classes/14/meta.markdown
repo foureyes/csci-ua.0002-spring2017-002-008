@@ -1,72 +1,63 @@
 ---
 layout: slides
-title: About Class #14 
+title: About Class #13 
 ---
 <section markdown="block" class="title-slide">
-# About Class #14
+# About Class #13
 {% include title-slide-footer.html %}
 </section>
-
 
 <section markdown="block">
 ### Topics
 
-* testing and documentation
-* scope
-* recursion (maybe)
-* strings
-
+* Nested Loops Review
+* Objects and Methods
+* Turtle
+* Turtle and Functions
+* (Optional) Approaching a Programming Problem -  Dice Wars Game
 </section>
 
-{% comment %}
+
 <section markdown="block">
-### Midterms
+### Homework 
 
-Grades should be posted by next Monday
+__Reminder__
 
-* will curve up if average is below 80
-* (typically average is above 80)
+* assignment #5 due on Thursday
+* (some material is from today's class)
 
 </section>
 
+<section markdown="block">
+### Midterm Exam
+
+* Grades posted
+* Exams will be returned today
+* We'll look at midterm solutions today
+
+</section>
+
+<!--
 <section markdown="block">
 ### Homework
 
-* homework #5 is due on Sunday 
-* (only 12 hour grace period)
-* questions about homework?
-
+* [Homework #4](../../schedule.html#homework4) (on loops: exclaim.py, dice.py, etc.) grading delayed, but should be finished this evening.
+* [Homework #5](../../schedule.html#homework5) (on nested loops: roll_a_seven.py, slashes.py, etc.) is due __today, Monday, 10/21__.
+* [Homework #6](../../schedule.html#homework6) (on turtle and value returning functions) files are posted (due next Monday, 10/28).
 </section>
-{% endcomment %}
 
-{% comment %}
-<section markdown="block">
-### Homework #3 Comments
-
-* [tip.py](../../homework/hw3/tip.py), [tip.py solution](../../resources/code/hw3/tip.py) 
-	* handling exactly 6 - consecutive ifs vs if / else
-* [grade.py](../../homework/hw3/grade.py) 
-	* if else would work to reduce code instead of using if elif (not wrong)
-	* structure of conditions (if ... elif (simple condition)... rewritten as if(simple condition) else)
-* [fortune.py](../../homework/hw3/fortune.py), [fortune.py solution](../../resources/code/hw3/fortune.py) 
-	* to place imports at beginning of program
-* [colors.py](../../homework/hw3/colors.py) 
-	* different ordering of color inputs, combine using logical operators
-</section>
 
 <section markdown="block">
-### Homework #4 Comments
+### Midterm and Midterm Grades
 
-* [dice.py](../../homework/hw4/dice.py), [dice.py solution](../../resources/code/hw4/dice.py) 
-	* int or integer division instead of round
-	* (expected the use of round, though)
-    * int always removes everything after the decimal, effectively rounding down 
-* [words.py](../../homework/hw4/words.py), [words.py solution](../../resources/code/hw4/words.py)
-	* multiple inputs rather than for loop
-	* using for loops that only loop once, for loop with conditional for each word
-* [guess.py](../../homework/hw4/guess.py), [guess.py solution](../../resources/code/hw4/guess.py)
-	* loop not stopping when number was guessed
-	* using two numbers that are set equal as condition (while a == 1 ...)
-	
+* midterms were returned last class; if you didn't receive yours, see me after class or send me an email
+* midterm grades will be posted by the end of October, and they will be based on:
+	* graded homework
+	* midterm exam #1
 </section>
-{% endcomment %}
+-->
+
+
+<section markdown="block">
+## [Nested Loops Review](nested-loops-review.html)
+</section>
