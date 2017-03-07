@@ -20,11 +20,11 @@ Quiz #6
     * [Midterm Solutions Version 2](resources/handouts/midterm_1/midterm_1_section_008_v2_evergreen_solutions.pdf)
 {% endcomment %}
 
-* [Functions: Assertions and Testing](classes/14/functions_assertions_testing.html)
-* [Scope](classes/14/scope.html)
-* [Recursion](classes/14/recursion.html)
-* [Strings](classes/14/strings.html)
-* [As a list of chars](classes/14/strings_as_list.html)
+* [Functions: Assertions and Testing](classes/13/functions_assertions_testing.html)
+* [Scope](classes/13/scope.html)
+* [Recursion](classes/13/recursion.html)
+* [Strings](classes/13/strings.html)
+* [As a list of chars](classes/13/strings_as_list.html)
 
 <!--
 * [Objects and Methods](classes/14/objects_and_methods.html)
