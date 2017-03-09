@@ -48,8 +48,8 @@ not a prime number (it's a composite) because it's divisible by 1, 3, and 9.
 
 FUNCTION 3: is_abundant
 A number is abundant if the sum of its factors (excluding itself) is greater
-than the actual number itself. For example, the number 12 is abundant because
-the sum of its factors, 2, 3, 4, and 6 (excluindg itself) are greater than 12.
+than the actual number it self. For example, the number 12 is abundant because
+its factors, 2, 3, 4, and 6 (excluindg itself) are greater than 12.
 
 1.  Write a function that takes one argument, an int. If the number is
     abundant, return True. Otherwise, return False. Call the function

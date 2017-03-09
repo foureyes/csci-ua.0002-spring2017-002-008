@@ -244,7 +244,7 @@ Jump to Class:
 #### Topics
 
 * In-class programming assignment
-</article> {% comment %}{% include classes/14/materials.markdown %} {% endcomment %}</div> </section> 
+</article> {% include classes/14/materials.markdown %} </div> </section> 
 
 
 <a name="springbreak1"></a><!---------- start --------------->
@@ -273,7 +273,7 @@ Jump to Class:
 <article class="topics" markdown="block">
 #### Topics
 
-* Lists
+* Strings
 
 </article> {% comment %}{% include classes/15/materials.markdown %}{% endcomment %} </div> </section> 
 

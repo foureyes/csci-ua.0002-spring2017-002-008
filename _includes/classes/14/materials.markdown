@@ -23,16 +23,18 @@ Warm-up
 * an example of minus
 * a box
 
-{% comment %}
-
-Homework #5 __Due Sunday, Oct 30th, at 11PM__
+Homework #5 __Due Wednesday, March 22nd, at 11PM__
 
 1. [funcynum.py](homework/hw05/funcynum.py)
 	* [instructions only](homework/hw05/funcynum.html)
 2. [feeling_quizzy.py](homework/hw05/feeling_quizzy.py)
 	* [instructions only](homework/hw05/feeling_quizzy.html)
-3. [snake_eyes.py](homework/hw05/snake_eyes.py)
+3. [clicky_quad.py](homework/hw05/clicky_quad.py)
 4. [analyze_numbers.py](homework/hw05/analyze_numbers.py)
+5. [slashes.py](homework/hw05/slashes.py)
+
+{% comment %}
+
 
 Module #7 __Due Wednesday, Nov 2nd, before class__
 
