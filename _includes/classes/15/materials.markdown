@@ -8,6 +8,8 @@
 
 Slides
 
+* [Strings](classes/13/strings.html) (Previous Class)
+* [As a list of chars](classes/13/strings_as_list.html) (Previous Class)
 * [Strings So Far (Review)](classes/16/review.html)
 * [Strings as Objects, String Methods](classes/16/strings_as_objects.html)
 * [Built-in String Functions](classes/16/strings_built_in_functions.html)
@@ -32,7 +34,7 @@ Readings
 Assignments
 
 * Complete the Self Paced-Learning Module #8
-* Take quiz #8 on NYU Classes - Module #8 - __Due Mon, 11/7__
+* Take quiz #8 on NYU Classes - Module #8
 
 <!--
 Readings
