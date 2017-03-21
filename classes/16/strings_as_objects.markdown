@@ -32,7 +32,7 @@ food = "pizza"
 
 <div class="incremental" markdown="block">
 {% highlight python %}
-leo.upper()
+food.upper()
 # use the object name
 # followed by dot
 # and the method (from here, it's like a regular function)
