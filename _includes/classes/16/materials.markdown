@@ -16,17 +16,24 @@
 
 Warm-up
 
-* "sequence" types
 * indexing and slicing
-* string methods, functions
-* review unicode, chr, ord
+* review string methods, functions
+* unicode, chr, ord
+* substitution cipher?
 
-Homework #6 __Due Tuesday, Nov 8th, at 11PM__ 
+Homework #6 __Due Tuesday, March 30th, at 11PM__ 
 
-1. [is_palindrome.py](homework/hw06/is_palindrome.py)
-2. [pig_latin.py](homework/hw06/pig_latin.py)
-3. [translate_passage.py](homework/hw06/translate_passage.py)
-4. [secret_messages.py](homework/hw06/secret_messages.py)
-5. [string_practice.py (for string methods)](homework/hw06/string_practice.py)
+1. [encode_decode.py](homework/hw06/encode_decode.py)
+2. [barcode_utilties.py](homework/hw06/barcode_utilties.py)
+    * once you're done with barcode_utilties.py, download the files below
+    * [upc.py](homework/hw06/upc.py)
+    * [draw_barcode.py](homework/hw06/upc.py)
+    * make sure that they're all in the same directory
+    * try running draw_barcode.py to generate a barcode
+    * try this number: 075678164125
+    * test with a barcode reading app on your phone!
+3. [is_palindrome.py](homework/hw06/is_palindrome.py)
+4. [pig_latin.py](homework/hw06/pig_latin.py)
+
 
 </article>
