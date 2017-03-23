@@ -7,6 +7,11 @@ a string: num_to_let and let_to_num. You'll use these two functions
 in an interactive program that allows a user to enter strings to be
 encoded and decoded.
 
+If you use chr and ord for this assignment, this table of unicode to
+code point translations may come in handy:
+
+http://www.utf8-chartable.de/unicode-utf8-table.pl?utf8=dec
+
 Part 1
 -----
 
