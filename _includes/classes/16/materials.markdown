@@ -24,7 +24,7 @@ Warm-up
 Homework #6 __Due Tuesday, March 30th, at 11PM__ 
 
 1. [encode_decode.py](homework/hw06/encode_decode.py)
-2. [barcode_utilties.py](homework/hw06/barcode_utilties.py)
+2. [barcode_utilities.py](homework/hw06/barcode_utilities.py)
     * once you're done with barcode_utilties.py, download the files below
     * [upc.py](homework/hw06/upc.py)
     * [draw_barcode.py](homework/hw06/upc.py)
