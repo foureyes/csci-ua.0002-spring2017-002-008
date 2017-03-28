@@ -15,7 +15,7 @@ The basics ([check out the module too of course]({{ site.module8 }})):
 * [Lists Overview](classes/17/lists.html)
 * [List Methods](classes/17/list_methods.html)
 
-For Today's class:
+Maybe?:
 
 * [Review](classes/17/lists_review.html)
 * [Iterating with Indexes](classes/17/iterating_with_indexes.html)
@@ -31,6 +31,14 @@ For Today's class:
 
 <article class="assignments" markdown="block">
 #### Assignments / Readings		
+
+Midterm #2 Practice
+
+* [Midterm #2 Practice Questions](resources/handouts/midterm_2/midterm_2_practice.pdf)
+* [Midterm #2 Practice Questions - Solutions](resources/handouts/midterm_2/midterm_2_practice_solutions.pdf)
+* [Midterm #2 List Questions](resources/handouts/midterm_2/midterm_2_list_practice.pdf)
+* [Midterm #2 List Questions - Solutions](resources/handouts/midterm_2/midterm_2_list_practice_solutions.pdf)
+* [Midterm #2 Shared Practice Questions and Solutions](resources/handouts/midterm_2/m02sampleproblems.html)
 
 <!--
 Readings
