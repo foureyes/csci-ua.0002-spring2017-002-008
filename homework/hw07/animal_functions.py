@@ -3,7 +3,7 @@ animal_functions.py - 12 points
 =====
 Write three functions that work with nested lists:
 
-1. find_by_name(animals)
+1. find_by_name(name, animals)
 2. stringify_animals(animals)
 3. get_most_urgent(animals)
 
@@ -50,8 +50,8 @@ Returns the animal with the name specified from a list of animals.
 examples:
 
 animal_list = [['sam', 'snake', 4], ['gertrude', 'goat', 99]]
-# will return ['gertrude', 'goat', 99]
-res = get_most_urgent(animal_list) 
+res = find_by_name('sam', animal_list) 
+print(res) # ['sam', 'snake', 4]
 
 
 stringify_animals:
