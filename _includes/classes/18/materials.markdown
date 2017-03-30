@@ -10,19 +10,20 @@
 <article class="slides" markdown="block">
 #### Slides
 
-* [Warm-Up for List Homework](classes/18/lists_warmup.html)
+* [Sample List Exercises](classes/18/lists_warmup.html)
 
 </article>
 
 <article class="assignments" markdown="block">
 #### Assignments / Readings		
 
-Homework #7 __Due Tuesday, Nov 14th, at 11PM__ 
+Homework #7 __Due Monday, April 3rd, at 11PM__ 
 
-* [vet.py](homework/hw07/vet.py)
-* [pawesome_pet_vet.py](homework/hw07/pawsome_pet_vet.py)
-* [balance.py](homework/hw07/balance.py)
-* [rps.py](homework/hw07/rps.py)
+(Late submissions allowed up through the morning of April 4th, 9AM)
+
+* [warm_up.py](homework/hw07/warm_up.py)
+* [animal_functions.py](homework/hw07/animal_functions.py)
+* [fortune_improved.py](homework/hw07/fortune_improved.py)
 
 <!--
 Readings
