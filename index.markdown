@@ -68,6 +68,7 @@ Homework
 	* The assignment will stay open for late submissions up until the beginning of the workshop class on the following day
 	* Late homework will receive a minor penalty
 	* After the grace period, homework cannot be submitted
+    * (updated 4/4/2017): If a homework is extended or if it is not due during a workshop date, the grace period policy above does not apply
 * [Page on academic integrity](http://www.cs.nyu.edu/webapps/content/academic/undergrad/academic_integrity)
 	* However, I do expect some level of collaboration (help debugging, discussing potential solutions, etc.)
 	* __But write your own code!__
