@@ -348,8 +348,7 @@ Jump to Class:
 * Lists Continued
 * Graphics (Turtle Module)
 
-{% comment %} {% comment %}{% include classes/19/materials.markdown %}{% endcomment %} {% endcomment %}
-</article> {% comment %}{% include classes/21/materials.markdown %}{% endcomment %} </div> </section> 
+</article> {% include classes/21/materials.markdown %}</div> </section> 
 
 <a name="class22"></a><!---------- start --------------->
 
