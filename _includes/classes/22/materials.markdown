@@ -19,14 +19,20 @@
 <article class="assignments" markdown="block">
 #### Assignments / Readings		
 
-Homework #8 __Due Sunday, December 4th, at 11PM__ 
+Homework #8 __Due Wednesday, April 19th, at 11PM__ 
 
 1. [your_face instructions](homework/hw08/your_face.html)
 	* [your_face.py (file download)](homework/hw08/your_face.py)
 2. [starry_starry_night instructions](homework/hw08/starry_starry_night.html)
 	* [starry_starry_night.py (file download)](homework/hw08/starry_starry_night.py)
+3. [practice_mutability.py](homework/hw08/practice_mutability.py)
+4. [doubled_swapped.py](homework/hw08/doubled_swapped.py)
+
+
+{% comment %}
 3. Extra Credit for midterm exams: 
     * [battleship](homework/hw09/battleship.py)
+{% endcomment %}
 
 {% comment %}
 Readings
