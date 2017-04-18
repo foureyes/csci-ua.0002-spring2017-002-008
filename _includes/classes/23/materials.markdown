@@ -28,7 +28,7 @@
 <article class="assignments" markdown="block">
 #### Assignments / Readings		
 
-Module #9 and Module #10 __Due Monday, April 24th, at 9am__
+Module #9 and Module #10 __Due Tuesday, April 25th, at 9am__
 
 * __You should probably look at module #9 before our workshop, but it won't be due 'til next week__
 * Complete the [Self Paced-Learning Module #9]({{ site.module9 }})
