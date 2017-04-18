@@ -12,9 +12,12 @@
 * [Courses Next Semester](classes/23/cs.html)
 -->
 * String split and join again?
+{% comment %}
 * Midterm Solutions
     * [Midterm 2 Solutions Version Cactus](resources/handouts/midterm_2/midterm_2_008_cactus_solutions.pdf)
     * [Midterm 2 Solutions Version Evergreen](resources/handouts/midterm_2/midterm_2_008_evergreen_solutions.pdf)
+{% endcomment %}
+
 * [Exceptions](classes/23/exceptions.html)
 * [File I/O Part 1](classes/23/files.html)
 * [File System and Paths](classes/23/paths.html)
@@ -25,13 +28,11 @@
 <article class="assignments" markdown="block">
 #### Assignments / Readings		
 
-Modules #9 __Due Monday, Dec 5th, before class__
+Module #9 and Module #10 __Due Monday, April 24th, at 9am__
 
-* Take quiz #9 on NYU Classes
+* __You should probably look at module #9 before our workshop, but it won't be due 'til next week__
 * Complete the [Self Paced-Learning Module #9]({{ site.module9 }})
-
-Modules #10 __Due Wednesday, Dec 7th, before class__
-
 * Complete the [Self Paced-Learning Module #10]({{ site.module10 }})
+* Take quiz #9 on NYU Classes
 * Take quiz #10 on NYU Classes
 </article>
