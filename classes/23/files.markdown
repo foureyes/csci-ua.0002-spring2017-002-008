@@ -465,7 +465,7 @@ for line in input_file:
 <section markdown="block">
 ### File System and Paths
 
-Oh... make sure you know about your [file system and how paths work (see these slides!)](file-system.html) &rarr;
+Oh... make sure you know about your [file system and how paths work (see these slides!)](paths.html) &rarr;
 </section>
 
 <section markdown="block">
