@@ -1,5 +1,5 @@
 """
-wordsy.py (15 points)
+wordsy.py (18 points)
 =====
 
 Write a program that:
@@ -25,7 +25,8 @@ Do this by:
     * it should open the dictionary file
     * ...and find valid words that can be formed from the set of letters
     * it should return a list of valid words
-* then... create another function, called main
+* then... create another function, called main (this will be called later
+  within an if statmement)
     * it should have no parameters
     * it should have no return value
     * it will ask the user for a set of letters that are between 1 and 7 
@@ -40,7 +41,13 @@ Do this by:
       words
     * print out the result in alphabetical order
     * only display, at most, the max number of words entered by the user
-    * call main at the end of the program
+    * call main at the end of the program as follows:
+
+# CALL YOUR main FUNCTION WITHIN THIS CONDITIONAL:
+
+if __name__ == "__main__":
+    main()
+
 * use this algorithm to determine the valid words that can be formed from a 
   set of letters:
     * create a list of found words (there shouldn't be any words there yet!)

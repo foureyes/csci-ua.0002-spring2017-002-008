@@ -1,5 +1,5 @@
 """
-nba.py (10 points)
+nba.py (12 points)
 =====
 
 You've been hired as the general manager of the Knicks, and it's your job to 
@@ -12,7 +12,7 @@ doing the following...
 
 Download the located at: 
 
-http://foureyes.github.io/csci-ua.0002-fall2015-008/homework/hw09/stats-clean.txt
+http://foureyes.github.io/csci-ua.0002-spring2017-002-008/homework/hw09/stats-clean.txt
 
 Use File --> save as ... to save in the same directory as your Python program.
 
