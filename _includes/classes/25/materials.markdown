@@ -1,6 +1,8 @@
 <article class="due" markdown="block">
 #### Due Today
 
+* Module #09 and Quiz #09
+* Module #10 and Quiz #10
 
 </article>
 
