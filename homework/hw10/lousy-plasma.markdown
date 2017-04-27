@@ -71,7 +71,7 @@ pre {
 
 <div markdown="block" class="assignment">
 
-# lousy_plasma.py (15 points)
+# lousy_plasma.py (30 points)
 
 <aside>This assignment is based on materials from Professors Case, Engel, and Kapp</aside>
 
@@ -79,11 +79,16 @@ Write a program that takes the [lyrics to Taylor Swift's song](http://genius.com
 
 The last parts of this assignment depend on a [thesaurus file](thesaurus.txt) and a [lyrics file](bad_blood.txt) that you'll have to download (right-click and save as...) to the same directory that your program is in.
 
+This assignment will cover recent material on:
+
+* dictionaries
+* file i/o
+
 <hr>
 
 ## Part 0
 
-Start of with a thesaurus represented by a Python dictionary. The thesaurus only has 2 entries in it:
+Start off with creating a thesaurus by using a Python dictionary. The thesaurus only has 2 entries in it:
 
 <pre><code data-trim contenteditable>thesaurus = { 
     "happy": "glad",
@@ -92,7 +97,7 @@ Start of with a thesaurus represented by a Python dictionary. The thesaurus only
 
 The dictionary contains two keys - <code>"happy"</code> and <code>"sad"</code>. Each of these keys holds a single synonym, a string, for that key.
 
-Write a program that asks the user for a phrase. Then compare the words in that phrase to the keys in the thesaurus. If the key can be found, you should replace the original word with a random synonym for that word. Words that are changed in this way should be printed in UPPERCASE letters. Make sure to remove all punctuation from your initial phrase so that you can find all possible matches. Here's a sample running of your program:
+Write a program that asks the user for a phrase. Then compare the words in that phrase to the keys in the thesaurus. If the key can be found, you should replace the original word with a random synonym for that word. Words that are changed in this way should be printed in UPPERCASE letters. Make sure to __remove all punctuation__, but __keep letters/numbers and spaces__ from your initial phrase so that you can find all possible matches (numbers probably don't matter that much, though). Here's a sample running of your program:
 
 __Example Interaction__
 
@@ -100,14 +105,18 @@ __Example Interaction__
 > Happy Birthday! exclaimed the sad, sad kitten
 GLAD birthday exclaimed the BLEAK BLEAK kitten</code></pre>
 
+Notice that the 1st sad was substituted, and the comma was removed.
+
 __Hints__
 
-* We removed punctuation in a previous homework...
-	* One way to do this is to accumulate all of the characters that are alphanumeric (<code>my_character.isalnum()</code>)
+* Removing punctuation and keeping letters, numbers and spaces
+	* One way to do this is to accumulate all of the characters that are alphanumeric (<code>my_character.isalnum()</code>) or space
 	* While it's not required, it might be useful to move this functionality into a separate function (maybe call it <code>remove_punctuation</code> ... have it take a string and return a new string
-* In that same homework, we were also tasked with breaking apart a string into single words. Do this any way you like... here are a couple of suggestions:
-	* accumulate until you see space, then you know you have a word
-	* __OR__ simply use <code>split</code>, and then <code>join</code> at the end
+* Breaking apart a string into single words
+    * Multiples ways of doing this
+    * Here are a couple of suggestions:
+	    * Accumulate until you see space, then you know you have a word
+	    * __OR__ simply use <code>split</code>, and then <code>join</code> at the end
 
 <hr>
 
@@ -137,7 +146,6 @@ ECSTATIC birthday exclaimed the DEPRESSED BLEAK kitten</code></pre>
 Rather than use a hard-coded dictionary as your thesaurus, use an [external thesaurus file](thesaurus.txt) (right-click and save as... __to where your Python program is__) to populate the keys and values in your dictionary. Use the following line to read in your file (do not use absolute paths):
 
 <pre><code data-trim contenteditable>f = open('thesaurus.txt', 'r') </code></pre>
-
 
 The data in the file is in the following format:
 
@@ -169,11 +177,18 @@ Finally, modify your above program to write a song for you. It'll use another ex
 
 1. Download the [lyrics to Bad Blood](bad_blood.txt) (right-click and save as to the same directory that your program is in)
 2. Instead of asking the user for a phrase... open the lyrics file (bad_blood.txt), and read the entire contents as a string using <code>file_object.read()</code>
-3. Using the same algorithm that you used in the previous program, change the words in the song to a random word from the thesaurus
-4. However, only do this in 1 out of every 2 words (that are found in the thesaurus)... so that only 50% of the words are matched in the thesaurus are substituted
-5. Again, words that are swapped should be printed in all UPPERCASE letters. Here's a sample running of your program (note that you can simply remove all punctuation from the source file for this program):
+3. Using the same algorithm that you used in the previous program, change the words in the song to a random word from the thesaurus 
+    * you'll have to lean out all punctuation again, and only keep letters/numbers and spaces
+    * break apart into single words
+    * substitute with a random word from thesaurus
+4. However, only do this in 1 out of every 2 words that are found in the thesaurus... 
+    * that is, if you a word from the lyrics is found in the thesaurus
+    * there is a 50% chance that it will be substituted with the thesaurus word
+5. Again, words that are swapped should be printed in all UPPERCASE letters. 
 6. Print out the new lyrics!
 7. Profit!!!
+
+See a sample running of the program below (note that you can simply remove all punctuation from the lyrics once you've read them in from the source file):
 
 __Example Output__
 
