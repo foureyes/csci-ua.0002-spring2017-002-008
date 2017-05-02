@@ -7,9 +7,13 @@
 <article class="slides" markdown="block">
 #### Slides
 
+Optional Topic(s)
+
+* recursion
+
 Additional Exercises
 
-* [hint.py - a _in-class_ hint for homework 10, part 3](homework/hw10/hint.py)
+* [hint.py - another exercise on file i/o](homework/hw10/hint.py)
 * [zips.txt - text file for hint.py](homework/hw10/zips.txt)
 
 {% comment %}

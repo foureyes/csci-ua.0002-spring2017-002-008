@@ -428,7 +428,7 @@ Jump to Class:
 #### Topics
 
 * TBD
-</article> {% comment %}{% include classes/27/materials.markdown %}{% endcomment %} </div> </section> 
+</article> {% include classes/27/materials.markdown %} </div> </section> 
 
 
 
